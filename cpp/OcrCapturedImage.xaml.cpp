@@ -461,7 +461,7 @@ task<void> OcrCapturedImage::SetPreviewRotationAsync()
         mediaCapture->SetPreviewRotation(sourceRotation);
 
         // Rotation metadata to apply to the preview stream (MF_MT_VIDEO_ROTATION).
-        // Reference: http://msdn.Microsoft.com/en-us/library/windows/apps/xaml/hh868174.aspx
+        // Reference: http://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh868174.aspx
         static const GUID RotationKey = { 0xC380465D, 0x2271, 0x428C,{ 0x9B, 0x83, 0xEC, 0xEA, 0x3B, 0x4A, 0x85, 0xC1 } };
 
         // Add rotation metadata to the preview stream to make sure the aspect ratio / dimensions match when rendering and getting preview frames.

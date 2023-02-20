@@ -1,0 +1,7 @@
+﻿  App.xaml.cpp
+  MainPage.xaml.cpp
+  OcrCapturedImage.xaml.cpp
+  OcrFileImage.xaml.cpp
+  SampleConfiguration.cpp
+  XamlTypeInfo.g.cpp
+  OCR.vcxproj -> D:\GoldenShark\Projects\OCR_1902\cpp\x64\Debug\OCR\OCR.exe

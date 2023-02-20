@@ -23,7 +23,7 @@ namespace SDKTemplate
         {
             Platform::String^ get()
             {
-                return "OCR CPP sample";
+                return "Golden Shark OCR";
             }
         }
 

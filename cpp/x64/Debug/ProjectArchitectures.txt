@@ -1,0 +1,1 @@
+D:\GoldenShark\Projects\OCR_1902\cpp\OCR.vcxproj;x64
